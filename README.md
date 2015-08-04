@@ -27,7 +27,7 @@ Here's how I read most of the resources listed below
     eventually understand what's going on and then return to the
     paper. You'll learn *something* at least
 
- 3. Implement often. I hard a hard time understanding a lot of these
+ 3. Implement often. I had a hard time understanding a lot of these
     topics originally until I actually sat down and wrote small
     compilers/type checkers for the languages they describe. Plus it's
     fun.
@@ -44,7 +44,9 @@ Here's how I read most of the resources listed below
 
     I reference this more than any other book. It's a very wide
     ranging survey of programming languages that assumes very little
-    background knowledge.
+    background knowledge. A lot people prefer the next book I mention
+    but I think PFPL does a better job explaining the foundations it
+    works from and then covers more topics I find interesting.
 
     * Online copy
     * Dead-tree copy
@@ -151,6 +153,31 @@ Some major proof assistants are
    * 1979
    * 1984
 
+ - The Works of John Reynold's
+
+   John Reynold's works are similarly impressive and always a pleasure
+   to read.
+
+   * Types, Abstraction and Parametric Polymorphism (Parametricity for
+     System F)
+   * A Logic For Shared Mutable State
+
+ - Computational Type Theory
+
+   While most dependent type theories (like the ones found in Coq,
+   Agda, Idris..) are based on Martin-Löf later intensional type
+   theories, computational type theory is different. It's a direct
+   descendant of his extensional type theory that has been heavily
+   developed and forms the basis of NuPRL nowadays. The resources
+   below describe the various parts of how CTT works.
+
+   * Type Theory and its Meaning Explanations
+   * A Non-Type-Theoretic Definition of Martin-Löf’s Types
+   * Constructing a type system over operational semantics (Similar to
+     the above, they're helpful to read together)
+   * Equality in Lazy Computation System (of general interest)
+   * Naive Computational Type Theory
+   * Innovations in CTT using NuPRL
 
 ### Proof Theory
 
