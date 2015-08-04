@@ -93,6 +93,9 @@ Some major proof assistants are
     * Official site
     * Software Foundations
     * Certified Programming with Dependent Types
+    * The paper on the calculus of constructions
+    * The paper on the calculus of inductive constructions (What Coq
+      is based on)
 
  - Agda
 
@@ -130,10 +133,36 @@ Some major proof assistants are
     * Official site
     * Wiki Tutorials
     * My tutorial
+    * The paper on LF, the underlying system of Twelf
 
 ### Type Theory
 
+ - The Works of Per Martin-Löf
+
+   Per Martin-Löf has contributed a *ton* to the current state of
+   dependent type theory. So much so that it's impossible to escape
+   his influence. His papers on Martin-Löf Type Theory (he called it
+   Intuitionistic Type Theory) are seminal.
+
+   * 1971
+   * Girard's proof that 1971's MLTT was inconsistent (This proves
+     `Type : Type` is broken)
+   * 1972
+   * 1979
+   * 1984
+
+
 ### Proof Theory
+
+ - Frank Pfenning's Lecture Notes
+
+    Over the years, Frank Pfenning has accumulated lecture notes that
+    are nothing short of heroic. They're not so bad to read and
+    almost as good as being in one of his lectures.
+
+    * Introductory Course
+    * Linear Logic
+    * Modal Logic
 
 ### Category Theory
 
@@ -145,13 +174,13 @@ least. It's actually really cool math so no harm done!
 
  - Category Theory for Computer Scientists
 
-    This is the absolute smallest introduction to category theory you
-    can find that's still useful for a computer scientist. It's very
-    light on what it demands for prior knowledge of pure math but
-    doesn't go into too much depth.
+   This is the absolute smallest introduction to category theory you
+   can find that's still useful for a computer scientist. It's very
+   light on what it demands for prior knowledge of pure math but
+   doesn't go into too much depth.
 
-    * Early version available online
-    * Dead-tree version
+   * Early version available online
+   * Dead-tree version
 
  - Category Theory
 
@@ -160,6 +189,15 @@ least. It's actually really cool math so no harm done!
    background and for covering quite a lot of ground in a
    readable way.
 
-   * Dead-tree link
+   * Dead-tree version
+
+ - Ed Morehouse's Category Theory Lecture Notes
+
+   Another valuable piece of reading are these lecture notes. They
+   cover a lot of the same areas as "Category Theory" so they can help
+   to reinforce what you learned there as well giving you some of
+   the author's perspective on how to think about these things.
+
+   * Online copy
 
 ### Other Goodness
