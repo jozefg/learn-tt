@@ -48,8 +48,8 @@ Here's how I read most of the resources listed below
     but I think PFPL does a better job explaining the foundations it
     works from and then covers more topics I find interesting.
 
-    * Online copy
-    * Dead-tree copy
+    * [Online copy](http://www.cs.cmu.edu/~rwh/plbook/1sted-revised.pdf)
+    * [Dead-tree copy](http://www.amazon.com/Practical-Foundations-Programming-Languages-Professor/dp/1107029570/ref=sr_1_1?ie=UTF8&qid=1439346858&sr=8-1&keywords=practical+foundations+for+programming+languages)
 
  - Types and Programming Languages (TAPL)
 
@@ -60,8 +60,8 @@ Here's how I read most of the resources listed below
     descriptions of concurrency/interesting imperative languages. Like
     PFPL this is very accessible and well written.
 
-   * Online supplements
-   * Dead-tree copy
+   * [Online supplements](http://www.cis.upenn.edu/~bcpierce/tapl/)
+   * [Dead-tree copy](https://mitpress.mit.edu/books/types-and-programming-languages)
 
  - Advanced Topics in Types and Programming Languages (ATTAPL)
 
@@ -71,7 +71,8 @@ Here's how I read most of the resources listed below
    to have in case you ever need to learn more about one of the
    subjects in a pinch.
 
-   * Dead-tree copy
+   * [Online supplements](http://www.cis.upenn.edu/~bcpierce/attapl/)
+   * [Dead-tree copy](http://www.amazon.com/exec/obidos/ASIN/0262162288/benjamcpierce)
 
 ### Proof Assistants
 
@@ -92,11 +93,11 @@ Some major proof assistants are
     Coq is one of the more widely used proof assistants and has the
     best introductory material by far in my opinion.
 
-    * Official site
-    * Software Foundations
-    * Certified Programming with Dependent Types
-    * The paper on the calculus of constructions
-    * The paper on the calculus of inductive constructions (What Coq
+    * [Official site](https://coq.inria.fr/)
+    * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
+    * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/)
+    * [The paper on the calculus of constructions](https://hal.inria.fr/inria-00076024/document)
+    * [The paper on the calculus of inductive constructions](http://www.cs.cmu.edu/~fp/papers/mfps89.pdf) (What Coq
       is based on)
 
  - Agda
@@ -106,10 +107,10 @@ Some major proof assistants are
     recommend doing that. Agda has some really interesting advanced
     constructs like induction-recursion.
 
-    * Official site
-    * Tutorial
-    * Records tutorial
-    * Conor McBride's fun Agda code
+    * [Official site](http://wiki.portal.chalmers.se/agda/pmwiki.php)
+    * [Tutorial](http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf)
+    * [Records tutorial](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=ReferenceManual.RecordsTutorial)
+    * [Conor McBride's](https://github.com/pigworker/MetaprogAgda) [fun Agda code](https://github.com/pigworker/CS410-14)
 
  - Idris
 
@@ -118,10 +119,10 @@ Some major proof assistants are
     one of the first serious attempts at writing a programming
     language with dependent types *for actual programming* though.
 
-    * Official site
-    * Quick tutorial
-    * Edwin Brady's fun talks
-    * David Christiansen's cool talks
+    * [Official site](http://idris-lang.org/)
+    * [Quick tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
+    * [Edwin Brady's fun talks](https://www.youtube.com/watch?v=O1t4xJzrOng)
+    * [David Christiansen's cool talks](https://www.youtube.com/watch?v=dP2imvL92sY)
 
  - Twelf
 
@@ -132,10 +133,10 @@ Some major proof assistants are
     bit harder to get started with. It does scale up to serious use
     though.
 
-    * Official site
-    * Wiki Tutorials
-    * My tutorial
-    * The paper on LF, the underlying system of Twelf
+    * [Official site](http://twelf.org/)
+    * [Wiki Tutorials](http://twelf.org/wiki/Tutorials)
+    * [My tutorial](http://jozefg.bitbucket.org/posts/2015-02-28-twelf.html)
+    * [The paper on LF, the underlying system of Twelf](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.21.5854)
 
 ### Type Theory
 
@@ -146,21 +147,18 @@ Some major proof assistants are
    his influence. His papers on Martin-Löf Type Theory (he called it
    Intuitionistic Type Theory) are seminal.
 
-   * 1971
-   * Girard's proof that 1971's MLTT was inconsistent (This proves
-     `Type : Type` is broken)
-   * 1972
-   * 1979
-   * 1984
+   * [1972](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf?raw=true)
+   * [1979](https://github.com/michaelt/martin-lof/blob/master/pdfs/Constructive-mathematics-and-computer-programming-1982.pdf?raw=true)
+   * [1984](https://github.com/michaelt/martin-lof/blob/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf?raw=true)
 
  - The Works of John Reynold's
 
    John Reynold's works are similarly impressive and always a pleasure
    to read.
 
-   * Types, Abstraction and Parametric Polymorphism (Parametricity for
+   * [Types, Abstraction and Parametric Polymorphism](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf) (Parametricity for
      System F)
-   * A Logic For Shared Mutable State
+   * [A Logic For Shared Mutable State](http://www.cs.cmu.edu/~jcr/seplogic.pdf)
 
  - Computational Type Theory
 
@@ -171,25 +169,36 @@ Some major proof assistants are
    developed and forms the basis of NuPRL nowadays. The resources
    below describe the various parts of how CTT works.
 
-   * Type Theory and its Meaning Explanations
-   * A Non-Type-Theoretic Definition of Martin-Löf’s Types
-   * Constructing a type system over operational semantics (Similar to
-     the above, they're helpful to read together)
-   * Equality in Lazy Computation System (of general interest)
-   * Naive Computational Type Theory
-   * Innovations in CTT using NuPRL
+   * [Type Theory and its Meaning Explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
+   * [A Non-Type-Theoretic Definition of Martin-Löf’s Types](http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html)
+   * [Constructing a type system over operational semantics](https://www.cs.uoregon.edu/research/summerschool/summer10/lectures/Harper-JSC92.pdf)
+     (Similar to the above, they're helpful to read together)
+   * [Equality in Lazy Computation System](http://www.nuprl.org/documents/Howe/EqualityinLazy.html) (of general interest)
+   * [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
+   * [Innovations in CTT using NuPRL](http://www.nuprl.org/documents/Allen/05-jal-final.pdf)
+
+ - Homotopy Type Theory
+
+   A new exciting branch of type theory. This exploits the connection
+   between homotopy theory and type theory by treating types as
+   spaces. It's the subject of a lot of active research but has some
+   really nice introductory resources even now.
+
+   * [The HoTT book](http://homotopytypetheory.org/book/)
+   * [Student's Notes on HoTT](https://github.com/RobertHarper/hott-notes)
+
 
 ### Proof Theory
 
  - Frank Pfenning's Lecture Notes
 
     Over the years, Frank Pfenning has accumulated lecture notes that
-    are nothing short of heroic. They're not so bad to read and
-    almost as good as being in one of his lectures.
+    are nothing short of heroic. They're wonderful to read and almost
+    as good as being in one of his lectures.
 
-    * Introductory Course
-    * Linear Logic
-    * Modal Logic
+    * [Introductory Course](http://www.cs.cmu.edu/~fp/courses/15317-f09/)
+    * [Linear Logic](http://www.cs.cmu.edu/~fp/courses/15816-s12/)
+    * [Modal Logic](http://www.cs.cmu.edu/~fp/courses/15816-s10/)
 
 ### Category Theory
 
@@ -206,8 +215,8 @@ least. It's actually really cool math so no harm done!
    light on what it demands for prior knowledge of pure math but
    doesn't go into too much depth.
 
-   * Early version available online
-   * Dead-tree version
+   * [Early version available online](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2846&context=compsci)
+   * [Dead-tree version](https://mitpress.mit.edu/index.php?q=books/basic-category-theory-computer-scientists)
 
  - Category Theory
 
@@ -216,7 +225,7 @@ least. It's actually really cool math so no harm done!
    background and for covering quite a lot of ground in a
    readable way.
 
-   * Dead-tree version
+   * [Dead-tree version](http://www.amazon.com/Category-Theory-Oxford-Logic-Guides/dp/0199237182/ref=sr_1_1?ie=UTF8&qid=1439348930&sr=8-1&keywords=awodey+category+theory)
 
  - Ed Morehouse's Category Theory Lecture Notes
 
@@ -225,6 +234,15 @@ least. It's actually really cool math so no harm done!
    to reinforce what you learned there as well giving you some of
    the author's perspective on how to think about these things.
 
-   * Online copy
+   * [Online copy](http://www.cs.cmu.edu/~edmo/research/notes/intro_categorical_semantics.pdf)
 
 ### Other Goodness
+
+ - Gunter's "Semantics of Programming Language"
+
+   While I'm not as big a fan of some of the earlier chapters, the
+   math presented in this book is absolutely top-notch and gives a
+   good understanding of how some cool fields (like domain theory)
+   work.
+
+   * [Dead-tree version](http://www.amazon.com/Semantics-Programming-Languages-Structures-Foundations/dp/0262071436/ref=sr_1_1?ie=UTF8&qid=1439349219&sr=8-1&keywords=gunter+semantics+of+programming+languages)
