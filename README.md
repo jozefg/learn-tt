@@ -6,39 +6,17 @@ Patch Theory" or whatever the latest cool paper is. In this repository
 I've gathered links to some of the resources I've personally found
 helpful.
 
-Please keep in mind these disclaimers
-
- - I'm still learning
- - The resources are biased towards what I find interesting: pure type
-   theory and proof theory. Lacking is references more focused on
-   verification, security, any of the other countless interesting
-   facets of programming languages
-
 ## Reading Advice
 
-Here's how I read most of the resources listed below
-
- 1. Start with the textbooks, they're mostly self-contained and are
-    much clearer about their audience. They'll also give you the
-    background you'll need to read other papers.
-
- 2. When reading a paper, if you get stuck see what the paper
-    references on the subject. Continue to read references until you
-    eventually understand what's going on and then return to the
-    paper. You'll learn *something* at least
-
- 3. Implement often. I had a hard time understanding a lot of these
-    topics originally until I actually sat down and wrote small
-    compilers/type checkers for the languages they describe. Plus it's
-    fun.
-
- 4. Skim heavily. If you try to read a paper in depth the first time
-    it takes twice as long as skimming it once and reading it more
-    thoroughly a second time.
+I strongly urge you to start by reading one or more of the textbooks
+immediately below. They give a nice self-contained introduction and a
+foundation for understanding the papers that follow. Don't get hung up
+on any particular thing, it's always easier to skim the first time and
+read closely on a second pass.
 
 ## The Resources
 
-### Text books
+### Textbooks
 
  - Practical Foundations of Programming Languages (PFPL)
 
@@ -77,16 +55,8 @@ Here's how I read most of the resources listed below
 ### Proof Assistants
 
 One of the fun parts of taking in an interest in type theory is that
-you get all sorts of fun new programming languages to play with. These
-are useful on two fronts
-
- - You can use them to formalize what you've seen so far
- - Actually working in the type theory gives you a much better
-   understanding for it
- - You can tie in your software-engineering experience with all this
-   math stuff.
-
-Some major proof assistants are
+you get all sorts of fun new programming languages to play with. Some
+major proof assistants are
 
  - Coq
 
@@ -203,10 +173,9 @@ Some major proof assistants are
 ### Category Theory
 
 Learning category theory is necessary to understand some parts of type
-theory. It's definitely not necessary to understand all of it though!
-If you decide to study categorical semantics, realizability, or domain
-theory eventually you'll have to buckledown and learn a little at
-least. It's actually really cool math so no harm done!
+theory. If you decide to study categorical semantics, realizability,
+or domain theory eventually you'll have to buckledown and learn a
+little at least. It's actually really cool math so no harm done!
 
  - Category Theory for Computer Scientists
 
