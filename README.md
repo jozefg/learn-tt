@@ -1,6 +1,6 @@
 # learn-tt
 
-Lot's of people seem curious about type theory but it's not at all
+Lots of people seem curious about type theory but it's not at all
 clear how to go from no math background to understanding "Homotopical
 Patch Theory" or whatever the latest cool paper is. In this repository
 I've gathered links to some of the resources I've personally found
