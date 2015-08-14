@@ -91,8 +91,9 @@ major proof assistants are
 
     * [Official site](http://idris-lang.org/)
     * [Quick tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
-    * [Edwin Brady's fun talks](https://www.youtube.com/watch?v=O1t4xJzrOng)
-    * [David Christiansen's cool talks](https://www.youtube.com/watch?v=dP2imvL92sY)
+    * [A list of talks on Idris](https://www.youtube.com/watch?v=O1t4xJzrOng)
+    * [David Christiansen's cool talk](https://www.youtube.com/watch?v=dP2imvL92sY)
+
 
  - Twelf
 
