@@ -94,7 +94,6 @@ major proof assistants are
     * [A list of talks on Idris](https://www.youtube.com/watch?v=O1t4xJzrOng)
     * [David Christiansen's cool talk](https://www.youtube.com/watch?v=dP2imvL92sY)
 
-
  - Twelf
 
     Twelf is by far the simplest system in this list, it's the
@@ -118,9 +117,23 @@ major proof assistants are
    his influence. His papers on Martin-Löf Type Theory (he called it
    Intuitionistic Type Theory) are seminal.
 
+    If you're confused by the papers above read the book in the next
+    entry and try again. The book doesn't give you as good a feel for
+    the various flavors of MLTT (which spun off into different areas
+    of research) but is easier to follow.
+
    * [1972](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf?raw=true)
    * [1979](https://github.com/michaelt/martin-lof/blob/master/pdfs/Constructive-mathematics-and-computer-programming-1982.pdf?raw=true)
    * [1984](https://github.com/michaelt/martin-lof/blob/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf?raw=true)
+
+ - Programming In Martin-Löf's Type Theory
+
+   It's good to read the original papers and here things from the
+   horses mouth, but Martin-Löf is much smarter than us and it's nice
+   to read other people explanations of his material. A group of
+   people at Chalmer's have elaborated it into a book.
+
+   * [Online link](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
  - The Works of John Reynold's
 
@@ -130,6 +143,8 @@ major proof assistants are
    * [Types, Abstraction and Parametric Polymorphism](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf) (Parametricity for
      System F)
    * [A Logic For Shared Mutable State](http://www.cs.cmu.edu/~jcr/seplogic.pdf)
+   * [Course notes on separation logic](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fox-19/member/jcr/www15818As2011/cs818A3-11.html)
+   * [Course notes on denotational semantics](http://www.cs.cmu.edu/~jcr/cs819-00.html)
 
  - Computational Type Theory
 
@@ -216,3 +231,16 @@ little at least. It's actually really cool math so no harm done!
    work.
 
    * [Dead-tree version](http://www.amazon.com/Semantics-Programming-Languages-Structures-Foundations/dp/0262071436/ref=sr_1_1?ie=UTF8&qid=1439349219&sr=8-1&keywords=gunter+semantics+of+programming+languages)
+
+ - OPLSS
+
+   The Oregon Programming Languages Summer School is a 2 week long
+   bootcamp on PLs held annually at the university of Oregon. It's a
+   wonderful event to attend but if you can't make it they record all
+   their lectures anyways! They're taught be a variety of lecturers
+   but they're all world class researchers.
+
+   * [2012](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+   * [2013](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+   * [2014](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
+   * [2015](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
