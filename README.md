@@ -135,9 +135,9 @@ major proof assistants are
 
    * [Online link](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
- - The Works of John Reynold's
+ - The Works of John Reynolds
 
-   John Reynold's works are similarly impressive and always a pleasure
+   John Reynolds' works are similarly impressive and always a pleasure
    to read.
 
    * [Types, Abstraction and Parametric Polymorphism](http://www.cse.chalmers.se/edu/year/2010/course/DAT140_Types/Reynolds_typesabpara.pdf) (Parametricity for
