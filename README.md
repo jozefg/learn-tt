@@ -51,6 +51,10 @@ read closely on a second pass.
 
    * [Online supplements](http://www.cis.upenn.edu/~bcpierce/attapl/)
    * [Dead-tree copy](http://www.amazon.com/exec/obidos/ASIN/0262162288/benjamcpierce)
+   
+ - Type Theory and Functional Programming (TTFP)
+   
+   * [Online Copy](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
 
 ### Proof Assistants
 
