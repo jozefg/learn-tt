@@ -232,6 +232,15 @@ little at least. It's actually really cool math so no harm done!
 
    * [Dead-tree version](http://www.amazon.com/Semantics-Programming-Languages-Structures-Foundations/dp/0262071436/ref=sr_1_1?ie=UTF8&qid=1439349219&sr=8-1&keywords=gunter+semantics+of+programming+languages)
 
+ - Abramsky and Jung's "Domain Theory"
+
+   This what I reference nowadays for domain theory. It's a very good
+   (if a little dense) introduction covering all the basic mathematics
+   necessary to work with domains productively.  It should definitely
+   be possible to follow if you've read some of Gunter's book.
+
+   - [CiteSeerX link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.8851)
+
  - OPLSS
 
    The Oregon Programming Languages Summer School is a 2 week long
