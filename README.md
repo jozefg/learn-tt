@@ -59,6 +59,10 @@ read closely on a second pass.
  - Type Theory and Functional Programming (TTFP)
    
    * [Online Copy](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+ 
+ - Practical Foundations of Mathematics (PFM)
+   
+   * [Online Copy](http://www.paultaylor.eu/~pt/prafm/html/)
 
 ### Proof Assistants
 
