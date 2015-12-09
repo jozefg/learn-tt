@@ -16,10 +16,6 @@ read closely on a second pass.
 
 ## The Resources
 
-### IRC Channel
-
- - ```##typetheory``` on ```irc.freenode.net```.
-
 ### Textbooks
 
  - Practical Foundations of Programming Languages (PFPL)
