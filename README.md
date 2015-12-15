@@ -51,6 +51,14 @@ read closely on a second pass.
 
    * [Online supplements](http://www.cis.upenn.edu/~bcpierce/attapl/)
    * [Dead-tree copy](http://www.amazon.com/exec/obidos/ASIN/0262162288/benjamcpierce)
+   
+ - Type Theory and Functional Programming (TTFP)
+   
+   * [Online Copy](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/ttfp.pdf)
+ 
+ - Practical Foundations of Mathematics (PFM)
+   
+   * [Online Copy](http://www.paultaylor.eu/~pt/prafm/html/)
 
 ### Proof Assistants
 
@@ -162,6 +170,7 @@ major proof assistants are
    * [Equality in Lazy Computation System](http://www.nuprl.org/documents/Howe/EqualityinLazy.html) (of general interest)
    * [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
    * [Innovations in CTT using NuPRL](http://www.nuprl.org/documents/Allen/05-jal-final.pdf)
+   * [Two Lectures on Constructive Type Theory](https://www.cs.uoregon.edu/research/summerschool/summer15/notes/OPLSS-Short-2015-2.pdf)
 
  - Homotopy Type Theory
 
