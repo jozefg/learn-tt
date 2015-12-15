@@ -170,6 +170,7 @@ major proof assistants are
    * [Equality in Lazy Computation System](http://www.nuprl.org/documents/Howe/EqualityinLazy.html) (of general interest)
    * [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
    * [Innovations in CTT using NuPRL](http://www.nuprl.org/documents/Allen/05-jal-final.pdf)
+   * [Two Lectures on Constructive Type Theory](https://www.cs.uoregon.edu/research/summerschool/summer15/notes/OPLSS-Short-2015-2.pdf)
 
  - Homotopy Type Theory
 
