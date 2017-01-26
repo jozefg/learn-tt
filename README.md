@@ -132,7 +132,7 @@ major proof assistants are
    It's good to read the original papers and here things from the
    horses mouth, but Martin-Löf is much smarter than us and it's nice
    to read other people explanations of his material. A group of
-   people at Chalmer's have elaborated it into a book.
+   people at Chalmers have elaborated it into a book.
 
    * [Online link](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 
