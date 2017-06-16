@@ -91,6 +91,7 @@ major proof assistants are
     language with dependent types *for actual programming* though.
 
     * [Official site](http://idris-lang.org/)
+    * [An actual introductory book](https://www.manning.com/books/type-driven-development-with-idris)
     * [Quick tutorial](http://docs.idris-lang.org/en/latest/tutorial/index.html#tutorial-index)
     * [A list of talks on Idris](https://www.youtube.com/watch?v=O1t4xJzrOng)
     * [David Christiansen's cool talk](https://www.youtube.com/watch?v=dP2imvL92sY)
@@ -254,3 +255,4 @@ little at least. It's actually really cool math so no harm done!
    * [2013](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
    * [2014](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
    * [2015](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
+   * [2016](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
