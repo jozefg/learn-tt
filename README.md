@@ -205,6 +205,30 @@ little at least. It's actually really cool math so no harm done!
    * [Early version available online](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2846&context=compsci)
    * [Dead-tree version](https://mitpress.mit.edu/index.php?q=books/basic-category-theory-computer-scientists)
 
+ - Category Theory in Context
+
+   A newly released textbook on category theory with a focus on using
+   representable functors as a tool to place various concepts of
+   category theory in a coherent framework. This has the substantial
+   advantage of being freely available online! It's also published by
+   Dover so the actual book itself is remarkably cheap.
+
+   * [Online version](http://www.math.jhu.edu/~eriehl/context.pdf)
+   * [Dead-tree version](http://store.doverpublications.com/048680903x.html)
+   * [The author's post on the book](https://golem.ph.utexas.edu/category/2016/11/category_theory_in_context.html)
+
+ - Practical Foundations of Mathematics
+
+   This books does an excellent job of tying together general
+   mathematics into the framework of category theory. It is
+   accordingly covers a large basis of *math* outside of the field of
+   category theory. It contains a large amount of categorical logic
+   which warrants its inclusion in this list and is one of the more
+   approachable texts on categorical logic. At least for me.
+
+   * [HTML version](http://www.paultaylor.eu/~pt/prafm/)
+   * [Dead-tree version](https://www.amazon.com/gp/product/0521631076)
+
  - Category Theory
 
    One of the better introductory books to category theory in my
@@ -222,6 +246,18 @@ little at least. It's actually really cool math so no harm done!
    the author's perspective on how to think about these things.
 
    * [Online copy](http://www.cs.cmu.edu/~edmo/research/notes/intro_categorical_semantics.pdf)
+
+ - Sheaves in Geometry and Logic
+
+   This is not an ideal first book on category theory by any
+   stretch. It merits inclusion because there are deep and interesting
+   relationships between topos theory and type theory and this is one
+   of the more approachable introductions. Some knowledge of topology
+   would be helpful in understanding some of the examples in this
+   books but I am told it is possible to muscle your way through
+   without it.
+
+   * [Dead-tree version](https://www.amazon.com/Sheaves-Geometry-Logic-Introduction-Universitext/dp/0387977104)
 
 ### Other Goodness
 
@@ -242,6 +278,18 @@ little at least. It's actually really cool math so no harm done!
    be possible to follow if you've read some of Gunter's book.
 
    - [CiteSeerX link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.50.8851)
+
+ - Realizability: An Introduction to Its Categorical Side
+
+   Categorical realizability is a fascinating area of overlap between
+   type theory and category theory that, frustratingly, lacks many
+   approachable introductions. van Oosten's book does a good job going
+   through the basic aspects of categorical realizability. It is
+   heavily dependent on knowledge of category theory though, I would
+   recommend making it through Sheaves and Geometry and Logic (see
+   above) or something equivalent first.
+
+   * [Dead-tree version](https://www.amazon.com/Realizability-Introduction-its-Categorical-Side/dp/0444550208)
 
  - OPLSS
 
