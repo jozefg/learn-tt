@@ -127,6 +127,7 @@ major proof assistants are
    * [1972](https://github.com/michaelt/martin-lof/blob/master/pdfs/An-Intuitionistic-Theory-of-Types-1972.pdf?raw=true)
    * [1979](https://github.com/michaelt/martin-lof/blob/master/pdfs/Constructive-mathematics-and-computer-programming-1982.pdf?raw=true)
    * [1984](https://github.com/michaelt/martin-lof/blob/master/pdfs/Bibliopolis-Book-retypeset-1984.pdf?raw=true)
+   * [The Complete Works of Per Martin-Löf](https://github.com/michaelt/martin-lof)
 
  - Programming In Martin-Löf's Type Theory
 
