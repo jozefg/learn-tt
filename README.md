@@ -247,6 +247,37 @@ little at least. It's actually really cool math so no harm done!
 
    * [Online copy](http://www.cs.cmu.edu/~edmo/research/notes/intro_categorical_semantics.pdf)
 
+ - Categorical Logic and Type Theory
+
+   This book is honestly quite difficult to get through, but it's an
+   absolutely indispensable resource for folks interested in
+   categorical logic. More generally, this book contains one of the
+   few coherent and comprehensive accounts of how to model type theory
+   categorically. It is *not* a book to learn category theory or type
+   theory from, it demands a good understanding of both since it's
+   focused on applying category theory, not explaining it so
+   much. This is also the book to read if you're interested in
+   understanding the theory of fibered categories in general (the
+   style of categorical semantics that it uses).
+
+   * [Jacob's thesis, containing much of what went into the book](http://www.cs.ru.nl/B.Jacobs/PAPERS/PhD.ps)
+   * [A definitely not suspicious online copy](https://people.mpi-sws.org/~dreyer/courses/catlogic/jacobs.pdf)
+   * [Dead-tree copy](https://www.amazon.com/exec/obidos/ASIN/0444501703/qid%3D922441598/002-9790597-0750031)
+
+ - Introduction to Higher-Order Categorical Logic
+
+   This is a relatively short book on categorical logic that
+   introduces all the basic concepts you needed to model simple
+   higher-order logics in category theory. It is *much* easier reading
+   than Categorical Logic and Type Theory but correspondingly less
+   comprehensive. It focuses mainly on modeling the simply typed
+   lambda calculus in cartesian closed categories and then on
+   modeling a richer type theory internally to a topos. It provides a
+   basic explanation of topos theory so it's intelligible having read
+   an introductory category theory book.
+
+   * [Dead-tree copy](https://www.amazon.com/Introduction-Higher-Order-Categorical-Cambridge-Mathematics/dp/0521356539/ref=pd_sim_14_5?_encoding=UTF8&psc=1&refRID=V4H286NSZWK4MWDPV17R)
+
  - Sheaves in Geometry and Logic
 
    This is not an ideal first book on category theory by any
