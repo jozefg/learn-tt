@@ -68,7 +68,7 @@ major proof assistants are
     * [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
     * [Certified Programming with Dependent Types](http://adam.chlipala.net/cpdt/)
     * [The paper on the calculus of constructions](https://hal.inria.fr/inria-00076024/document)
-    * [The paper on the calculus of inductive constructions](http://www.cs.cmu.edu/~fp/papers/mfps89.pdf) (What Coq
+    * [A paper on the calculus of inductive constructions](https://hal.inria.fr/hal-01094195/document) (What Coq
       is based on)
 
  - Agda
@@ -189,22 +189,23 @@ major proof assistants are
     * [Linear Logic](http://www.cs.cmu.edu/~fp/courses/15816-s12/)
     * [Modal Logic](http://www.cs.cmu.edu/~fp/courses/15816-s10/)
 
+ - Jean-Yves Girard's Books
+
+   Girard, one of the most influential logicians of our time, has
+   written several excellent texts on proof theory and logic. My
+   ability to appreciate them is somewhat hampered by a language
+   barrier but what work is available in English I have enjoyed.
+
+   * [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf)
+   * [The Blind Spot: Lectures on Logic](http://www.ems-ph.org/books/book.php?proj_nr=136&srch=browse_authors%7CGirard%2C+Jean-Yves)
+   * [Mustard Watches: An Integrated Approach to Time and Food](http://girard.perso.math.cnrs.fr/mustard/page1.html)
+
 ### Category Theory
 
 Learning category theory is necessary to understand some parts of type
 theory. If you decide to study categorical semantics, realizability,
 or domain theory eventually you'll have to buckledown and learn a
 little at least. It's actually really cool math so no harm done!
-
- - Category Theory for Computer Scientists
-
-   This is the absolute smallest introduction to category theory you
-   can find that's still useful for a computer scientist. It's very
-   light on what it demands for prior knowledge of pure math but
-   doesn't go into too much depth.
-
-   * [Early version available online](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2846&context=compsci)
-   * [Dead-tree version](https://mitpress.mit.edu/index.php?q=books/basic-category-theory-computer-scientists)
 
  - Category Theory in Context
 
@@ -336,3 +337,5 @@ little at least. It's actually really cool math so no harm done!
    * [2014](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
    * [2015](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
    * [2016](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
+   * [2017](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)
+   * [2018](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php)
