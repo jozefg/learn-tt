@@ -70,6 +70,14 @@ major proof assistants are
     * [The paper on the calculus of constructions](https://hal.inria.fr/inria-00076024/document)
     * [A paper on the calculus of inductive constructions](https://hal.inria.fr/hal-01094195/document) (What Coq
       is based on)
+ - Lean
+
+   Lean is one of the newer proof assistants on the scene. To be perfectly honest I haven't done a
+   lot of proving in Lean yet but it seems neat. (If you have any resources you'd like to add to
+   this list, please let me know)
+
+   - [Official site](https://leanprover.github.io)
+   - [Logic and Proof Textbook](https://leanprover.github.io/logic_and_proof/)
 
  - Agda
 
@@ -82,6 +90,7 @@ major proof assistants are
     * [Tutorial](http://www.cse.chalmers.se/~ulfn/papers/afp08/tutorial.pdf)
     * [Records tutorial](http://wiki.portal.chalmers.se/agda/pmwiki.php?n=ReferenceManual.RecordsTutorial)
     * [Conor McBride's](https://github.com/pigworker/MetaprogAgda) [fun Agda code](https://github.com/pigworker/CS410-14)
+    * [Martín Hötzel Escardó's notes on Univalent Mathematics in Agda](https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/HoTT-UF-Agda.html)
 
  - Idris
 
@@ -107,7 +116,7 @@ major proof assistants are
 
     * [Official site](http://twelf.org/)
     * [Wiki Tutorials](http://twelf.org/wiki/Tutorials)
-    * [My tutorial](http://jozefg.bitbucket.org/posts/2015-02-28-twelf.html)
+    * [My tutorial](http://jozefg.bitbucket.io/posts/2015-02-28-twelf.html)
     * [The paper on LF, the underlying system of Twelf](http://citeseer.ist.psu.edu/viewdoc/summary?doi=10.1.1.21.5854)
 
 ### Type Theory
@@ -149,23 +158,6 @@ major proof assistants are
    * [Course notes on separation logic](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/fox-19/member/jcr/www15818As2011/cs818A3-11.html)
    * [Course notes on denotational semantics](http://www.cs.cmu.edu/~jcr/cs819-00.html)
 
- - Computational Type Theory
-
-   While most dependent type theories (like the ones found in Coq,
-   Agda, Idris..) are based on Martin-Löf later intensional type
-   theories, computational type theory is different. It's a direct
-   descendant of his extensional type theory that has been heavily
-   developed and forms the basis of NuPRL nowadays. The resources
-   below describe the various parts of how CTT works.
-
-   * [Type Theory and its Meaning Explanations](https://github.com/jonsterling/type-theory-and-its-meaning-explanations)
-   * [A Non-Type-Theoretic Definition of Martin-Löf’s Types](http://www.cs.cornell.edu/Info/Projects/NuPrl/documents/Allen/lics87.html)
-   * [Constructing a type system over operational semantics](https://www.cs.uoregon.edu/research/summerschool/summer10/lectures/Harper-JSC92.pdf)
-     (Similar to the above, they're helpful to read together)
-   * [Equality in Lazy Computation System](http://www.nuprl.org/documents/Howe/EqualityinLazy.html) (of general interest)
-   * [Naive Computational Type Theory](http://www.nuprl.org/documents/Constable/naive.pdf)
-   * [Innovations in CTT using NuPRL](http://www.nuprl.org/documents/Allen/05-jal-final.pdf)
-
  - Homotopy Type Theory
 
    A new exciting branch of type theory. This exploits the connection
@@ -175,7 +167,7 @@ major proof assistants are
 
    * [The HoTT book](http://homotopytypetheory.org/book/)
    * [Student's Notes on HoTT](https://github.com/RobertHarper/hott-notes)
-
+   * [Materials for the Schools and Workshops on UniMath](https://github.com/UniMath/Schools)
 
 ### Proof Theory
 
