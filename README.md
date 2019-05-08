@@ -14,7 +14,7 @@ I first created this document. I still stand by the fact that the links in this 
 learn ideas that would have been difficult to find elsewhere. At the same time, I worry that this
 list carries more of a ring of authority than I wish it did, particularly now that it is relatively
 popular. I learn more about type theory every day (admittedly, some days more slowly than I wish)
-and my views on what constitutes a good explanation, a good approach, or even good a type theory
+and my views on what constitutes a good explanation, a good approach, or even a good type theory
 have changed in small and large ways since I first compiled these resources.
 
 I toyed with the idea of deleting this repository because I have worried whether or not presenting
