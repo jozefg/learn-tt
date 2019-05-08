@@ -1,18 +1,34 @@
 # learn-tt
 
+
 Lots of people seem curious about type theory but it's not at all
 clear how to go from no math background to understanding "Homotopical
 Patch Theory" or whatever the latest cool paper is. In this repository
 I've gathered links to some of the resources I've personally found
 helpful.
 
-## Reading Advice
+## A Disclaimer
 
-I strongly urge you to start by reading one or more of the textbooks
-immediately below. They give a nice self-contained introduction and a
-foundation for understanding the papers that follow. Don't get hung up
-on any particular thing, it's always easier to skim the first time and
-read closely on a second pass.
+At this point `learn-tt` is a few years old and I can write with slightly more confidence than when
+I first created this document. I still stand by the fact that the links in this list have helped me
+learn ideas that would have been difficult to find elsewhere. At the same time, I worry that this
+list carries more of a ring of authority than I wish it did, particularly now that it is relatively
+popular. I learn more about type theory every day (admittedly, some days more slowly than I wish)
+and my views on what constitutes a good explanation, a good approach, or even good a type theory
+have changed in small and large ways since I first compiled these resources.
+
+I toyed with the idea of deleting this repository because I have worried whether or not presenting
+my own learning path does more harm than good. I have decided to leave it around but to add a
+disclaimer instead.
+
+> What follows below should not be construed as some _blessed path_ for learning type theory. You
+> may find it better to skim this list or simply snort and ignore it entirely. My process for
+> learning continues to be distinctly wandering and non-linear. Someone with different goals than me
+> would find some of these links useless and I would not be nearly so bold as to claim that these
+> resources are canonical, necessary, or even helpful for everyone. I can only hope that you enjoy
+> reading them as much as I have.
+>
+> Danny
 
 ## The Resources
 
