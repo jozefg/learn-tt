@@ -255,7 +255,7 @@ little at least. It's actually really cool math so no harm done!
    to reinforce what you learned there as well giving you some of
    the author's perspective on how to think about these things.
 
-   * [Online copy](http://www.cs.cmu.edu/~edmo/research/notes/intro_categorical_semantics.pdf)
+   * [Online copy](https://emorehouse.wescreates.wesleyan.edu/research/notes/intro_categorical_semantics.pdf)
 
  - Categorical Logic and Type Theory
 
