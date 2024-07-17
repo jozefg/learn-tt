@@ -42,7 +42,7 @@ disclaimer instead.
     but I think PFPL does a better job explaining the foundations it
     works from and then covers more topics I find interesting.
 
-    * [Online copy (2nd Edition Preview)](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+    * [Online copy (2nd Edition Preview)](https://web.archive.org/web/20230619030940/https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
     * [Dead-tree copy (2nd Edition)](https://www.amazon.com/Practical-Foundations-Programming-Languages-Robert/dp/1107150302)
 
 
