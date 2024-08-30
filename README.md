@@ -93,6 +93,8 @@ major proof assistants are
    this list, please let me know)
 
    - [Official site](https://leanprover.github.io)
+   - [Lean Manual](https://lean-lang.org/lean4/doc/)
+   - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/title.html)
    - [Logic and Proof Textbook](https://leanprover.github.io/logic_and_proof/)
 
  - Agda
