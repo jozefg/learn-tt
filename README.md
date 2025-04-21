@@ -28,7 +28,16 @@ disclaimer instead.
 > resources are canonical, necessary, or even helpful for everyone. I can only hope that you enjoy
 > reading them as much as I have.
 >
-> Danny
+> Daniel
+
+### An addendum to this disclaimer
+
+A few years after this disclaimer was written, I began writing my own introductory textbook on type
+theory together with [Carlo Angiuli](https://carloangiuli.com). At the risk of singing our own
+praises, I think the current draft is not terrible and it can be found freely available on [my
+website](https://www.danielgratzer.com/papers/type-theory-book.pdf). Feedback on this draft is more
+than welcome. Note that this book does not supplant most the resources listed below. However, it
+hopefully it supplements a few of them.
 
 ## The Resources
 
