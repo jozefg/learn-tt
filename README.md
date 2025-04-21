@@ -72,7 +72,7 @@ hopefully it supplements a few of them.
     PFPL this is very accessible and well written.
 
    * [Online supplements](http://www.cis.upenn.edu/~bcpierce/tapl/)
-   * [Dead-tree copy](https://mitpress.mit.edu/books/types-and-programming-languages)
+   * [Dead-tree copy](https://mitpress.mit.edu/9780262162098/types-and-programming-languages/)
 
  - Advanced Topics in Types and Programming Languages (ATTAPL)
 
