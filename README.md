@@ -32,12 +32,19 @@ disclaimer instead.
 
 ### An addendum to this disclaimer
 
-A few years after this disclaimer was written, I began writing my own introductory textbook on type
-theory together with [Carlo Angiuli](https://carloangiuli.com). At the risk of singing our own
-praises, I think the current draft is not terrible and it can be found freely available on [my
+A few years after this disclaimer was written and roughly 10 years after making this repository, I
+began writing my own introductory textbook on type theory together with [Carlo
+Angiuli](https://carloangiuli.com).[^1] At the risk of singing our own praises, I think the current
+draft is not terrible and it can be found freely available on [my
 website](https://www.danielgratzer.com/papers/type-theory-book.pdf). Feedback on this draft is more
 than welcome. Note that this book does not supplant most the resources listed below. However, it
 hopefully it supplements a few of them.
+
+
+[^1]: In a small twist of fate, Carlo is one of the authors of the "homotopical patch theory" paper
+  referenced in the opening paragraph of this document. I didn't actually know Carlo well when
+  making this document in 2015 and am honestly unsure what prompted me to choose that particular
+  example.
 
 ## The Resources
 
